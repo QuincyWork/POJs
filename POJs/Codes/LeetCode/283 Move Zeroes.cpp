@@ -10,7 +10,7 @@ void moveZeroes1(vector<int>& nums)
 	int first = -1;	// first zero index
 	int last = -1;	// last zero index + 1
 
-	for (int i=0; i<nums.size(); ++i)
+	for (size_t i=0; i<nums.size(); ++i)
 	{
 		if (nums[i] != 0)
 		{
@@ -35,8 +35,8 @@ void moveZeroes1(vector<int>& nums)
 
 void moveZeroes(vector<int>& nums)
 {
-	int nZero = 0;
-	for (int i=0; i< nums.size(); ++i)
+	size_t nZero = 0;
+	for (size_t i=0; i< nums.size(); ++i)
 	{
 		if (nums[i] != 0)
 		{

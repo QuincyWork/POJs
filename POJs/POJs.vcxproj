@@ -39,8 +39,8 @@
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <LinkIncremental>true</LinkIncremental>
-    <IncludePath>..\..\gTest\include;$(IncludePath)</IncludePath>
-    <LibraryPath>..\..\gTest\lib;$(LibraryPath)</LibraryPath>
+    <IncludePath>..\ThirdLibs\gTest\include;$(IncludePath)</IncludePath>
+    <LibraryPath>..\ThirdLibs\gTest\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <LinkIncremental>false</LinkIncremental>
@@ -186,9 +186,7 @@
     <ClCompile Include="Codes\BaiLian\Levenshtein.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="Codes\LeetCode\283 Move Zeroes.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
-    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\283 Move Zeroes.cpp" />
     <ClCompile Include="Codes\LeetCode\292 Nim Game.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">NotUsing</PrecompiledHeader>
     </ClCompile>
