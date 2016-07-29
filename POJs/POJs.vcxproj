@@ -187,9 +187,13 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="Codes\LeetCode\283 Move Zeroes.cpp" />
+    <ClCompile Include="Codes\LeetCode\290 Word Pattern.cpp" />
     <ClCompile Include="Codes\LeetCode\292 Nim Game.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">NotUsing</PrecompiledHeader>
     </ClCompile>
+    <ClCompile Include="Codes\LeetCode\299 Bulls and Cows.cpp" />
+    <ClCompile Include="Codes\LeetCode\303 Range Sum Query - Immutable.cpp" />
+    <ClCompile Include="Codes\LeetCode\326 Power of Three.cpp" />
     <ClCompile Include="Codes\LeetCode\Add Digits.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
