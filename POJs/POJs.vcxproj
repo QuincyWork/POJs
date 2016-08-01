@@ -186,16 +186,39 @@
     <ClCompile Include="Codes\BaiLian\Levenshtein.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="Codes\LeetCode\283 Move Zeroes.cpp" />
-    <ClCompile Include="Codes\LeetCode\290 Word Pattern.cpp" />
+    <ClCompile Include="Codes\LeetCode\283 Move Zeroes.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\290 Word Pattern.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="Codes\LeetCode\292 Nim Game.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">NotUsing</PrecompiledHeader>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="Codes\LeetCode\299 Bulls and Cows.cpp" />
-    <ClCompile Include="Codes\LeetCode\303 Range Sum Query - Immutable.cpp" />
-    <ClCompile Include="Codes\LeetCode\326 Power of Three.cpp" />
-    <ClCompile Include="Codes\LeetCode\342 Power of Four.cpp" />
-    <ClCompile Include="Codes\LeetCode\344 Reverse String.cpp" />
+    <ClCompile Include="Codes\LeetCode\299 Bulls and Cows.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\303 Range Sum Query - Immutable.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\326 Power of Three.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\342 Power of Four.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\344 Reverse String.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\345 Reverse Vowels of a String.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\349 Intersection of Two Arrays.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\350 Intersection of Two Arrays II.cpp" />
+    <ClCompile Include="Codes\LeetCode\374 Guess Number Higher or Lower.cpp" />
     <ClCompile Include="Codes\LeetCode\Add Digits.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>

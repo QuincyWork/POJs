@@ -383,5 +383,17 @@
     <ClCompile Include="Codes\LeetCode\344 Reverse String.cpp">
       <Filter>Codes\LeetCode</Filter>
     </ClCompile>
+    <ClCompile Include="Codes\LeetCode\345 Reverse Vowels of a String.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\349 Intersection of Two Arrays.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\350 Intersection of Two Arrays II.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\374 Guess Number Higher or Lower.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
