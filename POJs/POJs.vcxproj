@@ -194,6 +194,8 @@
     <ClCompile Include="Codes\LeetCode\299 Bulls and Cows.cpp" />
     <ClCompile Include="Codes\LeetCode\303 Range Sum Query - Immutable.cpp" />
     <ClCompile Include="Codes\LeetCode\326 Power of Three.cpp" />
+    <ClCompile Include="Codes\LeetCode\342 Power of Four.cpp" />
+    <ClCompile Include="Codes\LeetCode\344 Reverse String.cpp" />
     <ClCompile Include="Codes\LeetCode\Add Digits.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
