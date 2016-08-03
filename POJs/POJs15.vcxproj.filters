@@ -1,0 +1,408 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Codes">
+      <UniqueIdentifier>{4164c60e-5e15-452e-ace9-66103c8b587d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Codes\BaiLian">
+      <UniqueIdentifier>{2a39a4ba-9f45-4f07-a6d6-6a28f3ad6569}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Codes\Algo">
+      <UniqueIdentifier>{94398921-51df-4f47-adf1-7021bd67ff81}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Codes\Structure">
+      <UniqueIdentifier>{54b9736d-4020-430b-bdbf-80acc311cadc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Codes\LeetCode">
+      <UniqueIdentifier>{1d3a1106-070e-4726-b8c3-8a73da7d5c8b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Codes\Structure\Graph.h">
+      <Filter>Codes\Structure</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="POJs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Structure\TrieTree.cpp">
+      <Filter>Codes\Structure</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Structure\DoubleArrayTrie.cpp">
+      <Filter>Codes\Structure</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Structure\Graph.cpp">
+      <Filter>Codes\Structure</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Algo\AddTwoNumbers.cpp">
+      <Filter>Codes\Algo</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Algo\AllPairsShortestPath.cpp">
+      <Filter>Codes\Algo</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Algo\BellmanFordSingleSourceShortest.cpp">
+      <Filter>Codes\Algo</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Algo\BFPTR.cpp">
+      <Filter>Codes\Algo</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Algo\CountSort.cpp">
+      <Filter>Codes\Algo</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Algo\DijkstraSingleSourceShortest.cpp">
+      <Filter>Codes\Algo</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Algo\EratosthenesPrime.cpp">
+      <Filter>Codes\Algo</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Algo\ExpressCalc.cpp">
+      <Filter>Codes\Algo</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Algo\GraphBreadthFirstSearch.cpp">
+      <Filter>Codes\Algo</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Algo\GraphDepthFirstSearch.cpp">
+      <Filter>Codes\Algo</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Algo\Heapsort.cpp">
+      <Filter>Codes\Algo</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Algo\InFixPostfix.cpp">
+      <Filter>Codes\Algo</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Algo\InsertSort.cpp">
+      <Filter>Codes\Algo</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Algo\JosephusProblem.cpp">
+      <Filter>Codes\Algo</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Algo\KnapsackProblem.cpp">
+      <Filter>Codes\Algo</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Algo\LengthOfLongestSubstring.cpp">
+      <Filter>Codes\Algo</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Algo\LongestCommonSequence.cpp">
+      <Filter>Codes\Algo</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Algo\LongestCommonSubString.cpp">
+      <Filter>Codes\Algo</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Algo\MaxSumOfSequence.cpp">
+      <Filter>Codes\Algo</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Algo\MedianOfTwoSortedArrays.cpp">
+      <Filter>Codes\Algo</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Algo\MergeSort.cpp">
+      <Filter>Codes\Algo</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Algo\Mock1.cpp">
+      <Filter>Codes\Algo</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Algo\MonteCarloCalcPI.cpp">
+      <Filter>Codes\Algo</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Algo\NOfM.cpp">
+      <Filter>Codes\Algo</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Algo\Permutation.cpp">
+      <Filter>Codes\Algo</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Algo\PossibleSet.cpp">
+      <Filter>Codes\Algo</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Algo\QuickSort.cpp">
+      <Filter>Codes\Algo</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Algo\RadixSort.cpp">
+      <Filter>Codes\Algo</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Algo\ShuffleCard.cpp">
+      <Filter>Codes\Algo</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Algo\TwoSum.cpp">
+      <Filter>Codes\Algo</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Algo\UnionFindSets.cpp">
+      <Filter>Codes\Algo</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\BaiLian\BaiL_2721.cpp">
+      <Filter>Codes\BaiLian</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\BaiLian\EnglishNumberTranslator.cpp">
+      <Filter>Codes\BaiLian</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\BaiLian\Levenshtein.cpp">
+      <Filter>Codes\BaiLian</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\ZigZagConversion.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\AddBinary.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\BestTimeToBuyAndSellStock.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\BinaryTreeLevelOrderTraversal.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\BinaryTreeLevelOrderTraversalII.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\CompareVersionNumbers.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\ContainsDuplicate.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\CountAndSay.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\CountPrimes.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\Delete Node in a Linked List.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\ExcelSheetColumnNumber.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\ExcelSheetColumnTitle.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\FactorialTrailingZeroes.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\HappyNumber.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\HouseRobber.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\IsomorphicStrings.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\LengthOfLastWord.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\MajorityElement.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\MaximumDepthOfBinaryTree.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\MergeSortedArray.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\MergeTwoSortedLists.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\MinimumDepthOfBinaryTree.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\MinStack.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\NumberConversion.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\Numberof1Bits.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\Palindrome Number.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\Pascal%27sTriangle.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\PathSum.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\PlusOne.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\RemoveDuplicatesFromSortedArray.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\RemoveElement.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\RemoveLinkedListElements.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\RemoveNthNode.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\RestoreIPAddress.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\ReverseBits.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\ReverseInteger.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\ReverseLinkedList.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\RotateArray.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\SameTree.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\StringToNumber.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\StrStr.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\SwapNodesinPairs.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\SymmetricTree.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\ValidPalindrome.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\ValidParentheses.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\ValidSudoku.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\283 Move Zeroes.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\292 Nim Game.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\Add Digits.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\BalancedBinaryTree.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\Binary Tree Paths.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\ClimbingStairs.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\Contains Duplicate II.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\First Bad Version.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\Implement Queue using Stacks.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\Implement Stack using Queues.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\IntegerToRoman.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\Intersection of Two Linked Lists.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\Invert Binary Tree.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\Linked List Cycle.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\LongestCommonPrefix.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\Lowest Common Ancestor of a Binary Search Tree.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\Power of Two.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\Rectangle Area.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\RemoveDuplicatesFromSortedList.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\RomanToInteger.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\StringToInteger.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\Ugly Number.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\Valid Anagram.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\290 Word Pattern.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\299 Bulls and Cows.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\303 Range Sum Query - Immutable.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\326 Power of Three.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\342 Power of Four.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\344 Reverse String.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\345 Reverse Vowels of a String.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\349 Intersection of Two Arrays.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\350 Intersection of Two Arrays II.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\374 Guess Number Higher or Lower.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\371 Sum of Two Integers.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\22 Generate Parentheses.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\35 Search Insert Position.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

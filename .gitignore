@@ -30,3 +30,5 @@ $tf*/
 ipch/pojs-9d5f0d3/pojs-5fe34b08.ipch
 POJs.opensdf
 POJs.sdf
+*.db
+*.opendb
