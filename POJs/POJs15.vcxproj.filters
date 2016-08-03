@@ -404,5 +404,8 @@
     <ClCompile Include="Codes\LeetCode\35 Search Insert Position.cpp">
       <Filter>Codes\LeetCode</Filter>
     </ClCompile>
+    <ClCompile Include="Codes\LeetCode\94 Binary Tree Inorder Traversal.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
