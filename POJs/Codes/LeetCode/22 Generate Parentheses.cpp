@@ -2,32 +2,29 @@
 #include <set>
 using namespace std;
 
-void generateChild(int n, set<string>& result)
-{	
-    if (n == 1)
-    {
-    	result.insert("()");
-    }
-    else if (n > 1)
-    {
-    	set<string> childs;
-    	generateChild(n-1, childs);
-    	for (set<string>::const_iterator it = childs.begin();
-    		it != childs.end();
-    		++it)
-    	{			
-    		result.insert("()" + *it);
-    		result.insert(*it + "()");
-    		result.insert("(" + *it + ")");
-    	}
-    }
+void generateChild(vector<string>& result, string& value, int left, int right)
+{
+	if (left==0 && right==0)
+	{
+		result.push_back(value);
+	}
+
+	if (left > 0)
+	{
+		generateChild(result, value + "(", left-1, right);
+	}
+
+	if (right > left && right > 0)
+	{
+		generateChild(result, value + ")", left, right-1);
+	}
 }
-    
+
 vector<string> generateParenthesis(int n) {
         
-    set<string> childs;
-	generateChild(n, childs);
-	return vector<string>(childs.begin(),childs.end());
+    vector<string> result;
+	generateChild(result, string(), n, n);
+	return result;
 }
 
  TEST(LeetCode, tGenerateParenthesis)
