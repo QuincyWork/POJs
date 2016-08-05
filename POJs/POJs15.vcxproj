@@ -234,7 +234,10 @@
     <ClCompile Include="Codes\LeetCode\374 Guess Number Higher or Lower.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="Codes\LeetCode\94 Binary Tree Inorder Traversal.cpp" />
+    <ClCompile Include="Codes\LeetCode\77 Combinations.cpp" />
+    <ClCompile Include="Codes\LeetCode\94 Binary Tree Inorder Traversal.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="Codes\LeetCode\Add Digits.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
