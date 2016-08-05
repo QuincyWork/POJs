@@ -413,5 +413,11 @@
     <ClCompile Include="Codes\LeetCode\39 Combination Sum.cpp">
       <Filter>Codes\LeetCode</Filter>
     </ClCompile>
+    <ClCompile Include="Codes\LeetCode\17 Letter Combinations of a Phone Number.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\49 Group Anagrams.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -1,10 +1,7 @@
 #include <gtest/gtest.h>
 using namespace std;
 
-vector<string> letterCombinations(string digits)
-{
-	string mapPhoneNumbe[] = {
-	"",
+string mapPhoneNumber[] = {
 	"abc",
 	"def",
 	"ghi",
@@ -12,33 +9,56 @@ vector<string> letterCombinations(string digits)
 	"mno",
 	"pqrs",
 	"tuv",
-	"wxyz"};
+	"wxyz" };
 
+bool letterCombinations(string digits, string select, int index, vector<string>& result)
+{
+	if (index == digits.length())
+	{
+		result.push_back(select);
+		return true;
+	}
+
+	int value = digits[index] - '0';
+	if (value < 2 || value > 9)
+	{
+		return false;
+	}
+
+	value -= 2;
+	for (int i = 0; i < mapPhoneNumber[value].length(); ++i)
+	{
+		select.push_back(mapPhoneNumber[value][i]);
+		if (!letterCombinations(digits, select, index + 1, result))
+		{
+			return false;
+		}
+		select.pop_back();
+	}
+
+	return true;
+}
+
+vector<string> letterCombinations(string digits)
+{
 	vector<string> result;
 	string current;
 
-	for (int i=0; i<digits.length();++i)
+	if (digits.empty())
 	{
-		int value = digits[i] - '0';
-		if (value < 2 && value > 9)
-		{
-			result.clear();
-			break;
-		}
-
-		for (int m = 0; m < mapPhoneNumbe[value].length(); ++m)
-		{
-			current = mapPhoneNumbe[value][0];
-			for (int j = i+1; j < digits.length(); ++j)
-			{
-				for (int n = 0; n < mapPhoneNumbe[j].length(); ++n)
-				{
-
-				}
-			}
-		}
+		return result;
 	}
 
+	if (!letterCombinations(digits, current, 0, result))
+	{
+		result.clear();
+	}
 
 	return result;
+}
+
+TEST(LeetCode, tLetterCombinations)
+{
+	vector<string> result = letterCombinations("23");
+	result = letterCombinations("");
 }
