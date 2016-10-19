@@ -422,5 +422,32 @@
     <ClCompile Include="Codes\LeetCode\53 Maximum Subarray.cpp">
       <Filter>Codes\LeetCode</Filter>
     </ClCompile>
+    <ClCompile Include="Codes\LeetCode\338 Counting Bits.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\136 Single Number.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\137 Single Number II.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\260 Single Number III.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\238 Product of Array Except Self.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\152 Maximum Product Subarray.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\153 Find Minimum in Rotated Sorted Array.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\347 Top K Frequent Elements.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\357 Count Numbers with Unique Digits.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
