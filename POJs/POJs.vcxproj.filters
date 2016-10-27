@@ -464,5 +464,11 @@
     <ClCompile Include="Codes\LeetCode\318 Maximum Product of Word Lengths.cpp">
       <Filter>Codes\LeetCode</Filter>
     </ClCompile>
+    <ClCompile Include="328 Odd Even Linked List.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\230 Kth Smallest Element in a BST.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
