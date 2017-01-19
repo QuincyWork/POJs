@@ -42,6 +42,9 @@
     <ClInclude Include="targetver.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Util.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="POJs.cpp">
@@ -495,6 +498,12 @@
       <Filter>Codes\LeetCode</Filter>
     </ClCompile>
     <ClCompile Include="Codes\LeetCode\42 Trapping Rain Water.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\44 Wildcard Matching.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\373 Find K Pairs with Smallest Sums.cpp">
       <Filter>Codes\LeetCode</Filter>
     </ClCompile>
   </ItemGroup>
