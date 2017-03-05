@@ -491,5 +491,14 @@
     <ClCompile Include="Codes\LeetCode\264 Ugly Number II.cpp">
       <Filter>Codes\LeetCode</Filter>
     </ClCompile>
+    <ClCompile Include="Codes\LeetCode\413 Arithmetic Slices.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\41 First Missing Positive.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\295 Find Median from Data Stream.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

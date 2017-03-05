@@ -230,7 +230,9 @@
     <ClCompile Include="Codes\LeetCode\260 Single Number III.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="Codes\LeetCode\264 Ugly Number II.cpp" />
+    <ClCompile Include="Codes\LeetCode\264 Ugly Number II.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="Codes\LeetCode\268 Missing Number.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
@@ -244,6 +246,7 @@
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">NotUsing</PrecompiledHeader>
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="Codes\LeetCode\295 Find Median from Data Stream.cpp" />
     <ClCompile Include="Codes\LeetCode\299 Bulls and Cows.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
@@ -298,6 +301,8 @@
     <ClCompile Include="Codes\LeetCode\39 Combination Sum.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="Codes\LeetCode\41 First Missing Positive.cpp" />
+    <ClCompile Include="Codes\LeetCode\413 Arithmetic Slices.cpp" />
     <ClCompile Include="Codes\LeetCode\49 Group Anagrams.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
