@@ -323,8 +323,14 @@
     <ClCompile Include="Codes\LeetCode\44 Wildcard Matching.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="Codes\LeetCode\480 Sliding Window Median.cpp" />
+    <ClCompile Include="Codes\LeetCode\480 Sliding Window Median.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\50 Pow.cpp" />
     <ClCompile Include="Codes\LeetCode\53 Maximum Subarray.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\69 Sqrt.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="Codes\LeetCode\77 Combinations.cpp">

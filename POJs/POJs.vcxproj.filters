@@ -28,6 +28,9 @@
     <Filter Include="Codes\LeetCode">
       <UniqueIdentifier>{1d3a1106-070e-4726-b8c3-8a73da7d5c8b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Codes\Recent">
+      <UniqueIdentifier>{98cf769d-f78a-4c42-bdcc-35a664b5dbe5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <None Include="ReadMe.txt" />
@@ -511,6 +514,12 @@
     </ClCompile>
     <ClCompile Include="Codes\LeetCode\480 Sliding Window Median.cpp">
       <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\69 Sqrt.cpp">
+      <Filter>Codes\Recent</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\50 Pow.cpp">
+      <Filter>Codes\Recent</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
