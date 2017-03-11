@@ -521,5 +521,8 @@
     <ClCompile Include="Codes\LeetCode\50 Pow.cpp">
       <Filter>Codes\Recent</Filter>
     </ClCompile>
+    <ClCompile Include="Codes\LeetCode\438 Find All Anagrams in a String.cpp">
+      <Filter>Codes\Recent</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
