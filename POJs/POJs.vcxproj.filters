@@ -158,13 +158,130 @@
     <ClCompile Include="Codes\BaiLian\Levenshtein.cpp">
       <Filter>Codes\BaiLian</Filter>
     </ClCompile>
-    <ClCompile Include="Codes\LeetCode\ZigZagConversion.cpp">
+    <ClCompile Include="Codes\LeetCode\17 Letter Combinations of a Phone Number.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\22 Generate Parentheses.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\35 Search Insert Position.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\39 Combination Sum.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\53 Maximum Subarray.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\77 Combinations.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\89 Gray Code.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\94 Binary Tree Inorder Traversal.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\136 Single Number.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\137 Single Number II.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\144 Binary Tree Preorder Traversal.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\152 Maximum Product Subarray.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\153 Find Minimum in Rotated Sorted Array.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\230 Kth Smallest Element in a BST.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\238 Product of Array Except Self.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\260 Single Number III.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\268 Missing Number.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\283 Move Zeroes.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\290 Word Pattern.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\292 Nim Game.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\299 Bulls and Cows.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\303 Range Sum Query - Immutable.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\318 Maximum Product of Word Lengths.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\319 Bulb Switcher.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\326 Power of Three.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="328 Odd Even Linked List.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\338 Counting Bits.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\342 Power of Four.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\343 Integer Break.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\344 Reverse String.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\345 Reverse Vowels of a String.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\347 Top K Frequent Elements.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\349 Intersection of Two Arrays.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\350 Intersection of Two Arrays II.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\357 Count Numbers with Unique Digits.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\371 Sum of Two Integers.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\374 Guess Number Higher or Lower.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\Add Digits.cpp">
       <Filter>Codes\LeetCode</Filter>
     </ClCompile>
     <ClCompile Include="Codes\LeetCode\AddBinary.cpp">
       <Filter>Codes\LeetCode</Filter>
     </ClCompile>
+    <ClCompile Include="Codes\LeetCode\BalancedBinaryTree.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
     <ClCompile Include="Codes\LeetCode\BestTimeToBuyAndSellStock.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\Binary Tree Paths.cpp">
       <Filter>Codes\LeetCode</Filter>
     </ClCompile>
     <ClCompile Include="Codes\LeetCode\BinaryTreeLevelOrderTraversal.cpp">
@@ -173,7 +290,13 @@
     <ClCompile Include="Codes\LeetCode\BinaryTreeLevelOrderTraversalII.cpp">
       <Filter>Codes\LeetCode</Filter>
     </ClCompile>
+    <ClCompile Include="Codes\LeetCode\ClimbingStairs.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
     <ClCompile Include="Codes\LeetCode\CompareVersionNumbers.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\Contains Duplicate II.cpp">
       <Filter>Codes\LeetCode</Filter>
     </ClCompile>
     <ClCompile Include="Codes\LeetCode\ContainsDuplicate.cpp">
@@ -197,16 +320,43 @@
     <ClCompile Include="Codes\LeetCode\FactorialTrailingZeroes.cpp">
       <Filter>Codes\LeetCode</Filter>
     </ClCompile>
+    <ClCompile Include="Codes\LeetCode\First Bad Version.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
     <ClCompile Include="Codes\LeetCode\HappyNumber.cpp">
       <Filter>Codes\LeetCode</Filter>
     </ClCompile>
     <ClCompile Include="Codes\LeetCode\HouseRobber.cpp">
       <Filter>Codes\LeetCode</Filter>
     </ClCompile>
+    <ClCompile Include="Codes\LeetCode\Implement Queue using Stacks.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\Implement Stack using Queues.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\IntegerToRoman.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\Intersection of Two Linked Lists.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\Invert Binary Tree.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
     <ClCompile Include="Codes\LeetCode\IsomorphicStrings.cpp">
       <Filter>Codes\LeetCode</Filter>
     </ClCompile>
     <ClCompile Include="Codes\LeetCode\LengthOfLastWord.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\Linked List Cycle.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\LongestCommonPrefix.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\Lowest Common Ancestor of a Binary Search Tree.cpp">
       <Filter>Codes\LeetCode</Filter>
     </ClCompile>
     <ClCompile Include="Codes\LeetCode\MajorityElement.cpp">
@@ -245,7 +395,16 @@
     <ClCompile Include="Codes\LeetCode\PlusOne.cpp">
       <Filter>Codes\LeetCode</Filter>
     </ClCompile>
+    <ClCompile Include="Codes\LeetCode\Power of Two.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\Rectangle Area.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
     <ClCompile Include="Codes\LeetCode\RemoveDuplicatesFromSortedArray.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\RemoveDuplicatesFromSortedList.cpp">
       <Filter>Codes\LeetCode</Filter>
     </ClCompile>
     <ClCompile Include="Codes\LeetCode\RemoveElement.cpp">
@@ -269,10 +428,16 @@
     <ClCompile Include="Codes\LeetCode\ReverseLinkedList.cpp">
       <Filter>Codes\LeetCode</Filter>
     </ClCompile>
+    <ClCompile Include="Codes\LeetCode\RomanToInteger.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
     <ClCompile Include="Codes\LeetCode\RotateArray.cpp">
       <Filter>Codes\LeetCode</Filter>
     </ClCompile>
     <ClCompile Include="Codes\LeetCode\SameTree.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\StringToInteger.cpp">
       <Filter>Codes\LeetCode</Filter>
     </ClCompile>
     <ClCompile Include="Codes\LeetCode\StringToNumber.cpp">
@@ -287,6 +452,12 @@
     <ClCompile Include="Codes\LeetCode\SymmetricTree.cpp">
       <Filter>Codes\LeetCode</Filter>
     </ClCompile>
+    <ClCompile Include="Codes\LeetCode\Ugly Number.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\Valid Anagram.cpp">
+      <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
     <ClCompile Include="Codes\LeetCode\ValidPalindrome.cpp">
       <Filter>Codes\LeetCode</Filter>
     </ClCompile>
@@ -296,178 +467,7 @@
     <ClCompile Include="Codes\LeetCode\ValidSudoku.cpp">
       <Filter>Codes\LeetCode</Filter>
     </ClCompile>
-    <ClCompile Include="Codes\LeetCode\283 Move Zeroes.cpp">
-      <Filter>Codes\LeetCode</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\LeetCode\292 Nim Game.cpp">
-      <Filter>Codes\LeetCode</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\LeetCode\Add Digits.cpp">
-      <Filter>Codes\LeetCode</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\LeetCode\BalancedBinaryTree.cpp">
-      <Filter>Codes\LeetCode</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\LeetCode\Binary Tree Paths.cpp">
-      <Filter>Codes\LeetCode</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\LeetCode\ClimbingStairs.cpp">
-      <Filter>Codes\LeetCode</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\LeetCode\Contains Duplicate II.cpp">
-      <Filter>Codes\LeetCode</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\LeetCode\First Bad Version.cpp">
-      <Filter>Codes\LeetCode</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\LeetCode\Implement Queue using Stacks.cpp">
-      <Filter>Codes\LeetCode</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\LeetCode\Implement Stack using Queues.cpp">
-      <Filter>Codes\LeetCode</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\LeetCode\IntegerToRoman.cpp">
-      <Filter>Codes\LeetCode</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\LeetCode\Intersection of Two Linked Lists.cpp">
-      <Filter>Codes\LeetCode</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\LeetCode\Invert Binary Tree.cpp">
-      <Filter>Codes\LeetCode</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\LeetCode\Linked List Cycle.cpp">
-      <Filter>Codes\LeetCode</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\LeetCode\LongestCommonPrefix.cpp">
-      <Filter>Codes\LeetCode</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\LeetCode\Lowest Common Ancestor of a Binary Search Tree.cpp">
-      <Filter>Codes\LeetCode</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\LeetCode\Power of Two.cpp">
-      <Filter>Codes\LeetCode</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\LeetCode\Rectangle Area.cpp">
-      <Filter>Codes\LeetCode</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\LeetCode\RemoveDuplicatesFromSortedList.cpp">
-      <Filter>Codes\LeetCode</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\LeetCode\RomanToInteger.cpp">
-      <Filter>Codes\LeetCode</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\LeetCode\StringToInteger.cpp">
-      <Filter>Codes\LeetCode</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\LeetCode\Ugly Number.cpp">
-      <Filter>Codes\LeetCode</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\LeetCode\Valid Anagram.cpp">
-      <Filter>Codes\LeetCode</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\LeetCode\290 Word Pattern.cpp">
-      <Filter>Codes\LeetCode</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\LeetCode\299 Bulls and Cows.cpp">
-      <Filter>Codes\LeetCode</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\LeetCode\303 Range Sum Query - Immutable.cpp">
-      <Filter>Codes\LeetCode</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\LeetCode\326 Power of Three.cpp">
-      <Filter>Codes\LeetCode</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\LeetCode\342 Power of Four.cpp">
-      <Filter>Codes\LeetCode</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\LeetCode\344 Reverse String.cpp">
-      <Filter>Codes\LeetCode</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\LeetCode\345 Reverse Vowels of a String.cpp">
-      <Filter>Codes\LeetCode</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\LeetCode\349 Intersection of Two Arrays.cpp">
-      <Filter>Codes\LeetCode</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\LeetCode\350 Intersection of Two Arrays II.cpp">
-      <Filter>Codes\LeetCode</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\LeetCode\374 Guess Number Higher or Lower.cpp">
-      <Filter>Codes\LeetCode</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\LeetCode\371 Sum of Two Integers.cpp">
-      <Filter>Codes\LeetCode</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\LeetCode\22 Generate Parentheses.cpp">
-      <Filter>Codes\LeetCode</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\LeetCode\35 Search Insert Position.cpp">
-      <Filter>Codes\LeetCode</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\LeetCode\94 Binary Tree Inorder Traversal.cpp">
-      <Filter>Codes\LeetCode</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\LeetCode\89 Gray Code.cpp">
-      <Filter>Codes\LeetCode</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\LeetCode\77 Combinations.cpp">
-      <Filter>Codes\LeetCode</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\LeetCode\39 Combination Sum.cpp">
-      <Filter>Codes\LeetCode</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\LeetCode\17 Letter Combinations of a Phone Number.cpp">
-      <Filter>Codes\LeetCode</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\LeetCode\53 Maximum Subarray.cpp">
-      <Filter>Codes\LeetCode</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\LeetCode\338 Counting Bits.cpp">
-      <Filter>Codes\LeetCode</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\LeetCode\136 Single Number.cpp">
-      <Filter>Codes\LeetCode</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\LeetCode\137 Single Number II.cpp">
-      <Filter>Codes\LeetCode</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\LeetCode\260 Single Number III.cpp">
-      <Filter>Codes\LeetCode</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\LeetCode\238 Product of Array Except Self.cpp">
-      <Filter>Codes\LeetCode</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\LeetCode\152 Maximum Product Subarray.cpp">
-      <Filter>Codes\LeetCode</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\LeetCode\153 Find Minimum in Rotated Sorted Array.cpp">
-      <Filter>Codes\LeetCode</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\LeetCode\347 Top K Frequent Elements.cpp">
-      <Filter>Codes\LeetCode</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\LeetCode\357 Count Numbers with Unique Digits.cpp">
-      <Filter>Codes\LeetCode</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\LeetCode\343 Integer Break.cpp">
-      <Filter>Codes\LeetCode</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\LeetCode\319 Bulb Switcher.cpp">
-      <Filter>Codes\LeetCode</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\LeetCode\268 Missing Number.cpp">
-      <Filter>Codes\LeetCode</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\LeetCode\144 Binary Tree Preorder Traversal.cpp">
-      <Filter>Codes\LeetCode</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\LeetCode\318 Maximum Product of Word Lengths.cpp">
-      <Filter>Codes\LeetCode</Filter>
-    </ClCompile>
-    <ClCompile Include="328 Odd Even Linked List.cpp">
-      <Filter>Codes\LeetCode</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\LeetCode\230 Kth Smallest Element in a BST.cpp">
+    <ClCompile Include="Codes\LeetCode\ZigZagConversion.cpp">
       <Filter>Codes\LeetCode</Filter>
     </ClCompile>
   </ItemGroup>

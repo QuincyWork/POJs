@@ -31,6 +31,9 @@
     <Filter Include="Codes\Pratices">
       <UniqueIdentifier>{4fc95c04-3918-4a63-86f4-dee400b8c46b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Codes\Recent">
+      <UniqueIdentifier>{e1368542-2f97-4e72-8ef6-c3604fa6d9a3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <None Include="ReadMe.txt" />
@@ -499,6 +502,15 @@
     </ClCompile>
     <ClCompile Include="Codes\LeetCode\295 Find Median from Data Stream.cpp">
       <Filter>Codes\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\496 Next Greater Element I.cpp">
+      <Filter>Codes\Recent</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\503 Next Greater Element II.cpp">
+      <Filter>Codes\Recent</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\LeetCode\69 Sqrt.cpp">
+      <Filter>Codes\Recent</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
