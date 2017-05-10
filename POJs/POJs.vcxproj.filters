@@ -521,5 +521,11 @@
     <ClCompile Include="Codes\LeetCode\50 Pow.cpp">
       <Filter>Codes\Recent</Filter>
     </ClCompile>
+    <ClCompile Include="Codes\LeetCode\304 Range Sum Query 2D - Immutable.cpp">
+      <Filter>Codes\Recent</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Algo\Sort.cpp">
+      <Filter>Codes\Algo</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
