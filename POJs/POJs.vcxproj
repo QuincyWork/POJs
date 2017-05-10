@@ -324,6 +324,7 @@
     <ClCompile Include="Codes\LeetCode\42 Trapping Rain Water.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="Codes\LeetCode\438 Find All Anagrams in a String.cpp" />
     <ClCompile Include="Codes\LeetCode\44 Wildcard Matching.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
