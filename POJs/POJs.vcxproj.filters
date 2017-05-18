@@ -526,9 +526,12 @@
     </ClCompile>
     <ClCompile Include="Codes\Algo\Sort.cpp">
       <Filter>Codes\Algo</Filter>
-	</ClCompile>
+    </ClCompile>
     <ClCompile Include="Codes\LeetCode\438 Find All Anagrams in a String.cpp">
       <Filter>Codes\Recent</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Algo\Search.cpp">
+      <Filter>Codes\Algo</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
