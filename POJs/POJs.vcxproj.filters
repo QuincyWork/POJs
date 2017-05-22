@@ -31,6 +31,15 @@
     <Filter Include="Codes\Recent">
       <UniqueIdentifier>{98cf769d-f78a-4c42-bdcc-35a664b5dbe5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Codes\Algo\String">
+      <UniqueIdentifier>{89d0ff75-0882-45df-b101-f1095b9c32b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Codes\Algo\Sort">
+      <UniqueIdentifier>{0be88374-6667-4fed-87ed-7d1d591af30a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Codes\Algo\Search">
+      <UniqueIdentifier>{13a43c1b-307e-41d8-aa62-d854115af400}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <None Include="ReadMe.txt" />
@@ -74,9 +83,6 @@
     <ClCompile Include="Codes\Algo\BFPTR.cpp">
       <Filter>Codes\Algo</Filter>
     </ClCompile>
-    <ClCompile Include="Codes\Algo\CountSort.cpp">
-      <Filter>Codes\Algo</Filter>
-    </ClCompile>
     <ClCompile Include="Codes\Algo\DijkstraSingleSourceShortest.cpp">
       <Filter>Codes\Algo</Filter>
     </ClCompile>
@@ -92,13 +98,7 @@
     <ClCompile Include="Codes\Algo\GraphDepthFirstSearch.cpp">
       <Filter>Codes\Algo</Filter>
     </ClCompile>
-    <ClCompile Include="Codes\Algo\Heapsort.cpp">
-      <Filter>Codes\Algo</Filter>
-    </ClCompile>
     <ClCompile Include="Codes\Algo\InFixPostfix.cpp">
-      <Filter>Codes\Algo</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\Algo\InsertSort.cpp">
       <Filter>Codes\Algo</Filter>
     </ClCompile>
     <ClCompile Include="Codes\Algo\JosephusProblem.cpp">
@@ -107,22 +107,7 @@
     <ClCompile Include="Codes\Algo\KnapsackProblem.cpp">
       <Filter>Codes\Algo</Filter>
     </ClCompile>
-    <ClCompile Include="Codes\Algo\LengthOfLongestSubstring.cpp">
-      <Filter>Codes\Algo</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\Algo\LongestCommonSequence.cpp">
-      <Filter>Codes\Algo</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\Algo\LongestCommonSubString.cpp">
-      <Filter>Codes\Algo</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\Algo\MaxSumOfSequence.cpp">
-      <Filter>Codes\Algo</Filter>
-    </ClCompile>
     <ClCompile Include="Codes\Algo\MedianOfTwoSortedArrays.cpp">
-      <Filter>Codes\Algo</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\Algo\MergeSort.cpp">
       <Filter>Codes\Algo</Filter>
     </ClCompile>
     <ClCompile Include="Codes\Algo\Mock1.cpp">
@@ -138,12 +123,6 @@
       <Filter>Codes\Algo</Filter>
     </ClCompile>
     <ClCompile Include="Codes\Algo\PossibleSet.cpp">
-      <Filter>Codes\Algo</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\Algo\QuickSort.cpp">
-      <Filter>Codes\Algo</Filter>
-    </ClCompile>
-    <ClCompile Include="Codes\Algo\RadixSort.cpp">
       <Filter>Codes\Algo</Filter>
     </ClCompile>
     <ClCompile Include="Codes\Algo\ShuffleCard.cpp">
@@ -524,14 +503,47 @@
     <ClCompile Include="Codes\LeetCode\304 Range Sum Query 2D - Immutable.cpp">
       <Filter>Codes\Recent</Filter>
     </ClCompile>
-    <ClCompile Include="Codes\Algo\Sort.cpp">
-      <Filter>Codes\Algo</Filter>
-    </ClCompile>
     <ClCompile Include="Codes\LeetCode\438 Find All Anagrams in a String.cpp">
       <Filter>Codes\Recent</Filter>
     </ClCompile>
-    <ClCompile Include="Codes\Algo\Search.cpp">
-      <Filter>Codes\Algo</Filter>
+    <ClCompile Include="Codes\Algo\Search\Search.cpp">
+      <Filter>Codes\Algo\Search</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Algo\Sort\CountSort.cpp">
+      <Filter>Codes\Algo\Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Algo\Sort\Heapsort.cpp">
+      <Filter>Codes\Algo\Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Algo\Sort\InsertSort.cpp">
+      <Filter>Codes\Algo\Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Algo\Sort\MergeSort.cpp">
+      <Filter>Codes\Algo\Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Algo\Sort\QuickSort.cpp">
+      <Filter>Codes\Algo\Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Algo\Sort\RadixSort.cpp">
+      <Filter>Codes\Algo\Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Algo\Sort\Sort.cpp">
+      <Filter>Codes\Algo\Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Algo\LengthOfLongestSubstring.cpp">
+      <Filter>Codes\Algo\String</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Algo\LongestCommonSequence.cpp">
+      <Filter>Codes\Algo\String</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Algo\LongestCommonSubString.cpp">
+      <Filter>Codes\Algo\String</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Algo\MaxSumOfSequence.cpp">
+      <Filter>Codes\Algo\String</Filter>
+    </ClCompile>
+    <ClCompile Include="Boyer-Moore.cpp">
+      <Filter>Codes\Algo\String</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
