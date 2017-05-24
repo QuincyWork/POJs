@@ -545,5 +545,8 @@
     <ClCompile Include="Boyer-Moore.cpp">
       <Filter>Codes\Algo\String</Filter>
     </ClCompile>
+    <ClCompile Include="Codes\Algo\String\BruteForceSearch.cpp">
+      <Filter>Codes\Algo\String</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
