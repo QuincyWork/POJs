@@ -542,10 +542,13 @@
     <ClCompile Include="Codes\Algo\MaxSumOfSequence.cpp">
       <Filter>Codes\Algo\String</Filter>
     </ClCompile>
-    <ClCompile Include="Boyer-Moore.cpp">
+    <ClCompile Include="BoyerMoore.cpp">
       <Filter>Codes\Algo\String</Filter>
     </ClCompile>
     <ClCompile Include="Codes\Algo\String\BruteForceSearch.cpp">
+      <Filter>Codes\Algo\String</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Algo\String\Deterministic Finite Automaton.cpp">
       <Filter>Codes\Algo\String</Filter>
     </ClCompile>
   </ItemGroup>
