@@ -190,7 +190,10 @@
     <ClCompile Include="Codes\Algo\String\BruteForceSearch.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="Codes\Algo\String\Deterministic Finite Automaton.cpp" />
+    <ClCompile Include="Codes\Algo\String\Deterministic Finite Automaton.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="Codes\Algo\String\Karp Rabin Search.cpp" />
     <ClCompile Include="Codes\Algo\TwoSum.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>

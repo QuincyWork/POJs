@@ -551,5 +551,8 @@
     <ClCompile Include="Codes\Algo\String\Deterministic Finite Automaton.cpp">
       <Filter>Codes\Algo\String</Filter>
     </ClCompile>
+    <ClCompile Include="Codes\Algo\String\Karp Rabin Search.cpp">
+      <Filter>Codes\Algo\String</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
