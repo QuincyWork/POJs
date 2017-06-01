@@ -13,7 +13,16 @@ void preMp(char* x, int m, int mpNext[])
 			j = mpNext[j];
 		}
 
-		mpNext[++i] = ++j;
+		i++;
+		j++;
+		if (x[i] != x[j])
+		{
+			mpNext[i] = j;
+		}
+		else
+		{
+			mpNext[i] = mpNext[j];
+		}		
 	}
 }
 
