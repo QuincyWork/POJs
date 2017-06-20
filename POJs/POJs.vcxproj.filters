@@ -563,5 +563,8 @@
     <ClCompile Include="Codes\BaiLian\Levenshtein.cpp">
       <Filter>Codes\Algo\String</Filter>
     </ClCompile>
+    <ClCompile Include="Codes\Algo\String\StringHash.cpp">
+      <Filter>Codes\Algo\String</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
